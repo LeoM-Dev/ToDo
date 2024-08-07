@@ -103,7 +103,7 @@ li.completed {
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 20px;
+    bottom: 20px;
     right: 20px;
     font-size: 14px;
     background-color: #121214;
