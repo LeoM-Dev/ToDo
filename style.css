@@ -120,6 +120,13 @@ li.completed {
     color: var(--secondary-white-color);
 }
 
+footer {
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 body.dark-mode {
     background-color: var(--secondary-black-color);
     color: var(--secondary-white-color);
